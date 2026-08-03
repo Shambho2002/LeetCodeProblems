@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0344-reverse-string) |
 ## String
@@ -19,6 +20,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
