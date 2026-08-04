@@ -35,6 +35,7 @@
 | [0414-third-maximum-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0704-binary-search) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0414-third-maximum-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0561-array-partition) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0561-array-partition) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting Sort
 |  |
 | ------- |
