@@ -21,6 +21,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0136-single-number) |
 ## Hash Table
@@ -55,6 +56,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
 |  |
 | ------- |
@@ -75,5 +77,14 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
