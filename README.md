@@ -32,6 +32,7 @@
 | [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0136-single-number) |
+| [0414-third-maximum-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
 ## Stack
 |  |
