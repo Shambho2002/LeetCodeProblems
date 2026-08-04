@@ -29,6 +29,7 @@
 | [0001-two-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
@@ -104,6 +105,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
@@ -137,6 +139,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0561-array-partition) |
