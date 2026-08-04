@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0344-reverse-string) |
@@ -11,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0242-valid-anagram) |
@@ -104,4 +106,20 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
