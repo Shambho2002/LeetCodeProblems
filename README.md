@@ -13,6 +13,7 @@
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0434-number-of-segments-in-a-string) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
 ## Array
 |  |
