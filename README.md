@@ -15,6 +15,7 @@
 | [0344-reverse-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0434-number-of-segments-in-a-string) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
+| [1592-rearrange-spaces-between-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1592-rearrange-spaces-between-words) |
 ## Array
 |  |
 | ------- |
