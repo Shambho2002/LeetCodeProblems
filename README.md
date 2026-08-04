@@ -12,6 +12,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0434-number-of-segments-in-a-string) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0037-sudoku-solver) |
+| [0242-valid-anagram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
 ## Math
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
 ## Stack
 |  |
