@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0007-reverse-integer) |
+| [2235-add-two-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
