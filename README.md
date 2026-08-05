@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0087-scramble-string) |
@@ -113,6 +114,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0050-powx-n) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
