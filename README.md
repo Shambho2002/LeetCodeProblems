@@ -38,6 +38,7 @@
 | [0088-merge-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
