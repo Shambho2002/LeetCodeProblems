@@ -40,6 +40,7 @@
 | [0134-gas-station](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0561-array-partition) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
 | [2235-add-two-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
@@ -159,4 +161,24 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0561-array-partition) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
