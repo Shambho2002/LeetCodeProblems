@@ -16,6 +16,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0125-valid-palindrome) |
@@ -115,12 +116,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0087-scramble-string) |
@@ -193,4 +196,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
