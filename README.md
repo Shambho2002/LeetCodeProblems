@@ -52,6 +52,7 @@
 | [0561-array-partition](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1207-unique-number-of-occurrences) |
+| [1470-shuffle-the-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
