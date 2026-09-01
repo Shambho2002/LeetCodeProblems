@@ -54,6 +54,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
+| [1732-find-the-highest-altitude](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -235,5 +236,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
