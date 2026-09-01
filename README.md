@@ -48,6 +48,7 @@
 | [0136-single-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0455-assign-cookies) |
@@ -73,6 +74,7 @@
 | [0001-two-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
 | [1207-unique-number-of-occurrences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1207-unique-number-of-occurrences) |
@@ -87,17 +89,20 @@
 | [0050-powx-n](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0704-binary-search) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -133,6 +138,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0561-array-partition) |
