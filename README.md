@@ -60,6 +60,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
+| [1652-defuse-the-bomb](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1748-sum-of-unique-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -267,4 +268,8 @@
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2574-left-and-right-sum-differences) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
