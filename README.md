@@ -65,6 +65,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1748-sum-of-unique-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
+| [2032-two-out-of-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2032-two-out-of-three) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2574-left-and-right-sum-differences) |
@@ -88,6 +89,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1748-sum-of-unique-elements) |
+| [2032-two-out-of-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2032-two-out-of-three) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -107,6 +109,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
+| [2032-two-out-of-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2032-two-out-of-three) |
 ## Binary Search
 |  |
 | ------- |
