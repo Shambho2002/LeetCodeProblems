@@ -80,6 +80,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3151-special-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3151-special-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3731-find-missing-elements) |
