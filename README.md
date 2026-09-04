@@ -87,6 +87,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@
 | [2235-add-two-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2235-add-two-integers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
