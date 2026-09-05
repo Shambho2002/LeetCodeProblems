@@ -1,18 +1,26 @@
-import java.util.Arrays;
 class Solution {
     public int[] transformArray(int[] nums) {
         int[] ans = new int[nums.length];
 		
-		for(int i = 0; i<nums.length; i++){
-			if(nums[i]%2 == 0){
-				ans[i] = 0;
-			}
-			else{
-				ans[i] = 1;
+		int zeroCount = 0;
+		
+		// Count even numbers
+		for(int num: nums){
+			if(num%2 == 0){
+				zeroCount++;
 			}
 		}
 		
-		Arrays.sort(ans);
+		// Put zeros first
+		for(int i = 0; i<zeroCount; i++){
+			ans[i] = 0;
+		}
+		
+		// Put ones after zeros
+		for(int i = zeroCount; i<nums.length; i++){
+			ans[i] = 1;
+		}
+		
 		return ans;
     }
 }
