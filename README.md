@@ -40,6 +40,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3340-check-balanced-string) |
