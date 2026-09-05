@@ -40,6 +40,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |
