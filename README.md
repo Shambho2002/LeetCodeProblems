@@ -36,6 +36,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
 | [1592-rearrange-spaces-between-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1592-rearrange-spaces-between-words) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1859-sorting-the-sentence) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -122,6 +123,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3005-count-elements-with-maximum-frequency) |
