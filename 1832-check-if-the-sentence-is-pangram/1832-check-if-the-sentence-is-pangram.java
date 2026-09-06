@@ -1,19 +1,18 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        int[] alphabet = new int[26];
+        boolean[] seen = new boolean[26];
+		int unique = 0;
 		
 		for(int i = 0; i<sentence.length(); i++){
-			if(sentence.charAt(i) >= 'a' && sentence.charAt(i) <= 'z'){
-				alphabet[((int)sentence.charAt(i) - 'a')]++;
+			int index = sentence.charAt(i) - 'a';
+			if(!seen[index]){
+				seen[index] = true;
+				unique++;
+				if(unique == 26){
+					return true;
+				}
 			}
 		}
-		
-		for(int i = 0; i<alphabet.length; i++){
-			if(alphabet[i] == 0){
-				return false;
-			}
-		}
-		
-		return true;
+		return false;
     }
 }
