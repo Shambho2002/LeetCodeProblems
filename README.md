@@ -46,6 +46,7 @@
 | [3110-score-of-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3813-vowel-consonant-score](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3813-vowel-consonant-score) |
 ## Array
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 | [1929-concatenation-of-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
+| [3813-vowel-consonant-score](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3813-vowel-consonant-score) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/4020-elevator-requests-i) |
 ## Prefix Sum
