@@ -97,6 +97,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -136,6 +137,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -163,6 +165,7 @@
 | [0136-single-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
 | [2032-two-out-of-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2032-two-out-of-three) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -260,6 +263,7 @@
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3467-transform-array-by-parity) |
