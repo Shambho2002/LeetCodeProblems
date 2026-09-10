@@ -40,6 +40,7 @@
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
 | [0917-reverse-only-letters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0917-reverse-only-letters) |
 | [1592-rearrange-spaces-between-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1592-rearrange-spaces-between-words) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1859-sorting-the-sentence) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -89,6 +90,7 @@
 | [1534-count-good-triplets](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1534-count-good-triplets) |
 | [1652-defuse-the-bomb](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1748-sum-of-unique-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -136,6 +138,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2032-two-out-of-three) |
@@ -168,6 +171,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 ## Binary Search
@@ -265,6 +269,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
