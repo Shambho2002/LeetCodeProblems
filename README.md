@@ -114,6 +114,7 @@
 | [3151-special-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3467-transform-array-by-parity) |
@@ -162,6 +163,7 @@
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2235-add-two-integers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
