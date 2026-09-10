@@ -119,6 +119,7 @@
 | [3452-sum-of-good-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -176,6 +177,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -354,6 +356,7 @@
 | [1929-concatenation-of-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3813-vowel-consonant-score](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3813-vowel-consonant-score) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/4020-elevator-requests-i) |
