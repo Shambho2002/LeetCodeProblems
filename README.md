@@ -47,6 +47,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2942-find-words-containing-character) |
@@ -108,6 +109,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2574-left-and-right-sum-differences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -286,6 +288,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3467-transform-array-by-parity) |
