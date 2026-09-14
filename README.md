@@ -39,6 +39,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
 | [0917-reverse-only-letters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0917-reverse-only-letters) |
+| [1528-shuffle-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [1592-rearrange-spaces-between-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1592-rearrange-spaces-between-words) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -92,6 +93,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1534-count-good-triplets) |
 | [1652-defuse-the-bomb](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1672-richest-customer-wealth) |
