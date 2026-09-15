@@ -89,6 +89,7 @@
 | [1122-relative-sort-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
