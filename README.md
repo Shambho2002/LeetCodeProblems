@@ -144,6 +144,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3467-transform-array-by-parity) |
@@ -224,6 +225,7 @@
 | [2032-two-out-of-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
