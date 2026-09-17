@@ -102,6 +102,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1534-count-good-triplets) |
@@ -312,6 +313,7 @@
 | [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -326,6 +328,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0316-remove-duplicate-letters) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
 | ------- |
