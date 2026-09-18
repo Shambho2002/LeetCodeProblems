@@ -139,6 +139,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
@@ -202,6 +203,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2032-two-out-of-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2540-minimum-common-value](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2965-find-missing-and-repeated-values) |
@@ -288,6 +290,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Algorithm X
