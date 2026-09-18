@@ -69,6 +69,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -332,6 +333,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -448,6 +450,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2974-minimum-number-game) |
+| [3174-clear-digits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
