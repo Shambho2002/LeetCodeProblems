@@ -526,4 +526,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
