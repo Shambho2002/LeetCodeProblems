@@ -179,6 +179,7 @@
 | [3452-sum-of-good-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -220,6 +221,7 @@
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3668-restore-finishing-order](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3731-find-missing-elements) |
 ## Math
