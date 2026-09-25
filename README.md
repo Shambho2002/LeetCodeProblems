@@ -135,6 +135,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1773-count-items-matching-a-rule) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -343,6 +344,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -469,6 +471,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0455-assign-cookies) |
 | [1122-relative-sort-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1122-relative-sort-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Simulation
 |  |
 | ------- |
