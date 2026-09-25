@@ -67,6 +67,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2418-sort-the-people) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -153,6 +154,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2418-sort-the-people](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -226,6 +228,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2418-sort-the-people](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -354,6 +357,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2418-sort-the-people) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2974-minimum-number-game) |
