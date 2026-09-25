@@ -65,6 +65,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -149,6 +150,7 @@
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2460-apply-operations-to-an-array) |
@@ -405,6 +407,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
