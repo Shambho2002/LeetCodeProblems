@@ -79,6 +79,7 @@
 | [3174-clear-digits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3248-snake-in-matrix) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3280-convert-date-to-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3498-reverse-degree-of-a-string) |
@@ -270,6 +271,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3280-convert-date-to-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
