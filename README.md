@@ -54,6 +54,7 @@
 | [0917-reverse-only-letters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [1592-rearrange-spaces-between-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1592-rearrange-spaces-between-words) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -413,6 +414,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -452,6 +454,7 @@
 | [0455-assign-cookies](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
