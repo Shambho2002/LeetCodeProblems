@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0067-add-binary) |
@@ -328,6 +329,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -403,6 +405,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
@@ -506,6 +509,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1021-remove-outermost-parentheses) |
 ## Quicksort
