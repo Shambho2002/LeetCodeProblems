@@ -129,6 +129,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -284,6 +285,7 @@
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
