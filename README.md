@@ -231,6 +231,7 @@
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3925-concatenate-array-with-reverse) |
+| [3978-unique-middle-element](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3978-unique-middle-element) |
 | [4020-elevator-requests-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -459,6 +460,7 @@
 | [3467-transform-array-by-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3978-unique-middle-element](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3978-unique-middle-element) |
 ## String Matching
 |  |
 | ------- |
