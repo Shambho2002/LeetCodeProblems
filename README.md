@@ -20,6 +20,7 @@
 | [0905-sort-array-by-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0942-di-string-match) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -54,6 +55,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
 | [0917-reverse-only-letters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0917-reverse-only-letters) |
+| [0942-di-string-match](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -122,6 +124,7 @@
 | [0832-flipping-an-image](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0942-di-string-match) |
 | [1122-relative-sort-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -480,6 +483,7 @@
 | [0455-assign-cookies](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
+| [0942-di-string-match](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
