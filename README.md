@@ -297,6 +297,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
