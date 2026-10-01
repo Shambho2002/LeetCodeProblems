@@ -276,6 +276,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -308,6 +309,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3945-digit-frequency-score](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
