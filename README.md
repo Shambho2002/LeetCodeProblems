@@ -289,6 +289,7 @@
 | [1025-divisor-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -324,6 +325,7 @@
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0832-flipping-an-image) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
