@@ -286,6 +286,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0728-self-dividing-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
