@@ -292,6 +292,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1323-maximum-69-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
@@ -509,6 +510,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1323-maximum-69-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
