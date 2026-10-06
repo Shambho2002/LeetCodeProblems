@@ -327,6 +327,7 @@
 | [3516-find-closest-person](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3870-count-commas-in-range) |
@@ -606,6 +607,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3701-compute-alternating-sum) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3813-vowel-consonant-score](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
