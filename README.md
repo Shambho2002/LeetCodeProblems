@@ -303,6 +303,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -535,6 +536,7 @@
 | [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2427-number-of-common-factors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2951-find-the-peaks) |
@@ -542,6 +544,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2427-number-of-common-factors) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Primality Test
@@ -660,4 +663,12 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0176-second-highest-salary) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
