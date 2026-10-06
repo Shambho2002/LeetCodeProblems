@@ -301,6 +301,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1925-count-square-sum-triples](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1925-count-square-sum-triples) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2235-add-two-integers) |
@@ -538,6 +539,7 @@
 | [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1925-count-square-sum-triples](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1925-count-square-sum-triples) |
 | [2427-number-of-common-factors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2843-count-symmetric-integers) |
