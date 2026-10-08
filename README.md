@@ -321,6 +321,7 @@
 | [3280-convert-date-to-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -547,6 +548,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
