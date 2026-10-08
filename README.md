@@ -336,6 +336,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3894-traffic-signal-color) |
+| [3908-valid-digit-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
