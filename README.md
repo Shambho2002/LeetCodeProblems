@@ -318,6 +318,7 @@
 | [2843-count-symmetric-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2928-distribute-candies-among-children-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2928-distribute-candies-among-children-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -559,6 +560,7 @@
 | [2427-number-of-common-factors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2843-count-symmetric-integers) |
+| [2928-distribute-candies-among-children-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2928-distribute-candies-among-children-i) |
 | [2951-find-the-peaks](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
@@ -673,6 +675,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2928-distribute-candies-among-children-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2928-distribute-candies-among-children-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Graph Theory
 |  |
