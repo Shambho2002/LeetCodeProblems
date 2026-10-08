@@ -86,6 +86,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3248-snake-in-matrix) |
@@ -317,6 +318,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -538,6 +540,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2864-maximum-odd-binary-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
