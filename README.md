@@ -328,6 +328,7 @@
 | [3516-find-closest-person](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
