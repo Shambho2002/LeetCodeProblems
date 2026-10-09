@@ -327,6 +327,7 @@
 | [3280-convert-date-to-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -364,6 +365,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -586,6 +588,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0050-powx-n) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -622,6 +625,7 @@
 | [3174-clear-digits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
