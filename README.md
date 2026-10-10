@@ -283,6 +283,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0067-add-binary) |
@@ -587,6 +588,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0050-powx-n) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bracket Sequences
@@ -702,4 +704,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2427-number-of-common-factors) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
