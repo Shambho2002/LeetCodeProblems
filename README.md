@@ -291,6 +291,7 @@
 | [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -355,6 +356,7 @@
 | [0067-add-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -577,6 +579,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sieve Theory
 |  |
 | ------- |
