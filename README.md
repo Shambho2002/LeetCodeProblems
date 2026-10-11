@@ -56,6 +56,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
+| [0771-jewels-and-stones](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0942-di-string-match) |
@@ -255,6 +256,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0726-number-of-atoms](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0726-number-of-atoms) |
+| [0771-jewels-and-stones](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1207-unique-number-of-occurrences) |
