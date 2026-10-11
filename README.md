@@ -34,6 +34,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [3813-vowel-consonant-score](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
