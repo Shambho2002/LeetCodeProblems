@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
@@ -285,6 +287,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0172-factorial-trailing-zeroes) |
