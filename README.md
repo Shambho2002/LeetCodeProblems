@@ -201,6 +201,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -279,6 +280,7 @@
 | [2418-sort-the-people](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -382,6 +384,7 @@
 | [2032-two-out-of-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -565,6 +568,7 @@
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2591-distribute-money-to-maximum-children) |
 | [2864-maximum-odd-binary-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2864-maximum-odd-binary-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
