@@ -66,6 +66,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [1592-rearrange-spaces-between-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1592-rearrange-spaces-between-words) |
+| [1678-goal-parser-interpretation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
