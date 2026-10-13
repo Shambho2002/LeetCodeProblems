@@ -315,6 +315,7 @@
 | [0029-divide-two-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
@@ -409,6 +410,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -753,4 +755,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0002-add-two-numbers) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
