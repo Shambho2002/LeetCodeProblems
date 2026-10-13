@@ -309,6 +309,7 @@
 | [0002-add-two-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0172-factorial-trailing-zeroes) |
@@ -379,6 +380,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
