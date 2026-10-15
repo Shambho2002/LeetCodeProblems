@@ -114,6 +114,7 @@
 | [3838-weighted-word-mapping](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3894-traffic-signal-color) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Array
 |  |
 | ------- |
@@ -385,6 +386,7 @@
 | [3908-valid-digit-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3959-check-good-integer) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Bit Manipulation
 |  |
 | ------- |
