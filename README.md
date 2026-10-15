@@ -211,6 +211,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -293,6 +294,7 @@
 | [2540-minimum-common-value](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -762,4 +764,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0069-sqrtx) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
