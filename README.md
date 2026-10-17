@@ -246,6 +246,7 @@
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -310,6 +311,7 @@
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -503,6 +505,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3731-find-missing-elements) |
 ## Stack
