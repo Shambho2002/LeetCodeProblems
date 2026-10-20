@@ -264,6 +264,7 @@
 | [3838-weighted-word-mapping](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3925-concatenate-array-with-reverse) |
@@ -400,6 +401,7 @@
 | [3870-count-commas-in-range](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3886-sum-of-sortable-integers) |
 | [3894-traffic-signal-color](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3945-digit-frequency-score) |
@@ -522,6 +524,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
 |  |
 | ------- |
@@ -642,6 +645,7 @@
 | [2928-distribute-candies-among-children-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2928-distribute-candies-among-children-i) |
 | [2951-find-the-peaks](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
