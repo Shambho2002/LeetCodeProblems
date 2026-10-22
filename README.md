@@ -97,6 +97,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2418-sort-the-people) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2678-number-of-senior-citizens](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2678-number-of-senior-citizens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2716-minimize-string-length) |
@@ -216,6 +217,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2678-number-of-senior-citizens](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2798-number-of-employees-who-met-the-target) |
