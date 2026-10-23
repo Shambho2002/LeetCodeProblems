@@ -370,6 +370,7 @@
 | [1837-sum-of-digits-in-base-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2169-count-operations-to-obtain-zero) |
@@ -657,6 +658,7 @@
 | [1534-count-good-triplets](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -669,6 +671,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2427-number-of-common-factors) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -681,6 +684,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
@@ -850,4 +854,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
