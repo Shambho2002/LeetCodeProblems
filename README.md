@@ -96,6 +96,7 @@
 | [2315-count-asterisks](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2418-sort-the-people) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2678-number-of-senior-citizens) |
@@ -376,6 +377,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2485-find-the-pivot-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2485-find-the-pivot-integer) |
