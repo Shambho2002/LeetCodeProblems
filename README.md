@@ -66,6 +66,7 @@
 | [0804-unique-morse-code-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -158,6 +159,7 @@
 | [0905-sort-array-by-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1122-relative-sort-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1254-number-of-closed-islands) |
@@ -873,4 +875,8 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1254-number-of-closed-islands) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
