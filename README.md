@@ -265,6 +265,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3663-find-the-least-frequent-digit](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3668-restore-finishing-order) |
@@ -500,6 +501,7 @@
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2965-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Algorithm X
 |  |
@@ -514,6 +516,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -851,6 +854,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -875,6 +879,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
