@@ -126,6 +126,7 @@
 | [3813-vowel-consonant-score](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3894-traffic-signal-color) |
@@ -278,6 +279,7 @@
 | [3731-find-missing-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -459,6 +461,7 @@
 | [3370-smallest-number-with-all-set-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -482,6 +485,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -520,6 +524,7 @@
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -844,15 +849,18 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
