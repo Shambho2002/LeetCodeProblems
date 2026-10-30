@@ -130,6 +130,7 @@
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3894-traffic-signal-color) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Array
 |  |
@@ -808,6 +809,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Combinatorics
 |  |
 | ------- |
@@ -819,6 +821,7 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Geometry
 |  |
 | ------- |
@@ -896,4 +899,8 @@
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
