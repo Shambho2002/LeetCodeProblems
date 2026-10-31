@@ -270,6 +270,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3663-find-the-least-frequent-digit](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3663-find-the-least-frequent-digit) |
+| [3665-twisted-mirror-path-count](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3665-twisted-mirror-path-count) |
 | [3668-restore-finishing-order](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -509,6 +510,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Algorithm X
@@ -591,6 +593,7 @@
 | [1025-divisor-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1025-divisor-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
 |  |
