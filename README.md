@@ -166,6 +166,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1122-relative-sort-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1207-unique-number-of-occurrences) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -372,6 +373,7 @@
 | [0728-self-dividing-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1025-divisor-game) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -750,6 +752,7 @@
 | [0415-add-strings](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
