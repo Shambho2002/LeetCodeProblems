@@ -365,6 +365,7 @@
 | [0050-powx-n](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
@@ -601,6 +602,7 @@
 | [0022-generate-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0087-scramble-string) |
 | [0338-counting-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0338-counting-bits) |
@@ -901,6 +903,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
