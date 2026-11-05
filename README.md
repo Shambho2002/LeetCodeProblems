@@ -454,6 +454,7 @@
 | [0067-add-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0338-counting-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -600,6 +601,7 @@
 | [0045-jump-game-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0087-scramble-string) |
+| [0338-counting-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1025-divisor-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
