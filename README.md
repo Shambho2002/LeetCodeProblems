@@ -200,6 +200,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1882-process-tasks-using-servers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1882-process-tasks-using-servers) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
@@ -836,6 +837,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1882-process-tasks-using-servers) |
 | [2974-minimum-number-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
