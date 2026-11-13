@@ -267,6 +267,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3452-sum-of-good-numbers) |
@@ -607,6 +608,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3174-clear-digits) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -632,10 +634,12 @@
 | [0085-maximal-rectangle](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
 | ------- |
@@ -826,6 +830,7 @@
 | [1652-defuse-the-bomb](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1652-defuse-the-bomb) |
 | [2747-count-zero-request-servers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2747-count-zero-request-servers) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Brainteaser
 |  |
@@ -902,6 +907,7 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
@@ -956,4 +962,8 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
