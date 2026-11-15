@@ -186,6 +186,7 @@
 | [1470-shuffle-the-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1534-count-good-triplets) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -397,6 +398,7 @@
 | [1399-count-largest-group](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1399-count-largest-group) |
 | [1486-xor-operation-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -625,6 +627,7 @@
 | [1025-divisor-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -821,6 +824,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2485-find-the-pivot-integer) |
