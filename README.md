@@ -96,6 +96,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2315-count-asterisks](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
@@ -798,6 +799,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
