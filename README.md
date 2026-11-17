@@ -33,6 +33,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3794-reverse-string-prefix) |
@@ -111,6 +112,7 @@
 | [2810-faulty-keyboard](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2864-maximum-odd-binary-number) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2942-find-words-containing-character](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3019-number-of-changing-keys) |
@@ -631,6 +633,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3693-climbing-stairs-ii) |
