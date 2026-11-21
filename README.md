@@ -122,6 +122,7 @@
 | [3248-snake-in-matrix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3248-snake-in-matrix) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3280-convert-date-to-binary](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3280-convert-date-to-binary) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3340-check-balanced-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3498-reverse-degree-of-a-string) |
@@ -275,6 +276,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -362,6 +364,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -560,6 +563,7 @@
 | [0079-word-search](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
@@ -934,6 +938,7 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
