@@ -280,6 +280,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -451,6 +452,7 @@
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -753,6 +755,7 @@
 | [2928-distribute-candies-among-children-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2928-distribute-candies-among-children-i) |
 | [2951-find-the-peaks](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
@@ -760,6 +763,7 @@
 | [0204-count-primes](https://github.com/Shambho2002/LeetCodeProblems/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Primality Test
@@ -859,6 +863,7 @@
 | [2747-count-zero-request-servers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2747-count-zero-request-servers) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Brainteaser
