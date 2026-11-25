@@ -314,6 +314,7 @@
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3925-concatenate-array-with-reverse) |
+| [3934-smallest-unique-subarray](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3978-unique-middle-element](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3978-unique-middle-element) |
 | [4020-elevator-requests-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/4020-elevator-requests-i) |
@@ -376,6 +377,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3934-smallest-unique-subarray) |
 | [3945-digit-frequency-score](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -522,6 +524,7 @@
 | [2540-minimum-common-value](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shambho2002/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1009,4 +1012,16 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Shambho2002/LeetCodeProblems/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
