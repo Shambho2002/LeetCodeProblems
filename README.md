@@ -453,6 +453,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -835,6 +836,7 @@
 | [3248-snake-in-matrix](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3360-stone-removal-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shambho2002/LeetCodeProblems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
